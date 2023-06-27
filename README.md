@@ -1,5 +1,5 @@
 ![Design and Development Guru](https://res.cloudinary.com/gurucom/image/upload/f_auto,dpr_2/v1679781777/pimg/FreelancerFiles/3/579/3579437/iztnzhkz1h9tsumlwplh.png)
-### Hi there 👋, Shahzeb Asghar
+### Hi there 👋, I'm Shahzeb Asghar
 #### Design and Development Guru
 I'm Shahzeb Asghar from Pakistan, a kick-ass web developer rocking the MERN stack. I code like a boss in Java, C++, and even tinker with WordPress.
 You can check out my Linkedin at https://www.linkedin.com/in/shahzaib-asghar87/
